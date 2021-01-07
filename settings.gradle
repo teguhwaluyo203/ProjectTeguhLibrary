@@ -1,0 +1,3 @@
+include ':TeguhLibrary'
+include ':app'
+rootProject.name = "ProjectTeguhLibrary"
